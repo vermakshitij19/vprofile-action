@@ -4,6 +4,7 @@
 - Maven 3
 - MySQL 8 
 - Terraform 
+- Jenkins 
 
 # Technologies 
 - Spring MVC
